@@ -1,4 +1,3 @@
-// Not sure if this is what you are asking for, but I assume 2 classes need to be created.
 class Price {
     constructor (pair, buy, sell, mid, quote) {
         this.pair = pair;
